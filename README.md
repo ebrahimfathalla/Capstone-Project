@@ -1,3 +1,4 @@
+# A Data-Driven Analysis of Road Accidents in the UK
 ## __Project Overview__
 
 This project seeks to identify patterns, trends, and key contributing factors that influence the severity and frequency of road traffic accidents across the United Kingdom. It analyzes road accident data from 2021–2022, sourced from the UK Department for Transport. The analysis focuses on aspects such as road type, speed limits, weather and lighting conditions, and accident timing to better understand how and why accidents happen, and to propose data-driven recommendations for reducing accident risks.
