@@ -44,4 +44,5 @@ In conclusion, this analysis shows that speed, weather, vehicle type, location, 
 ## __Dependencies__
 1. Microsoft Excel
 2. Microsoft Power BI
+3. Canva 
 
