@@ -11,10 +11,9 @@ This project seeks to identify patterns, trends, and key contributing factors th
 4. To support decision-makers with data-driven insights aimed at reducing road-related incidents.
 
 ## __Dataset and Data Dictionary__
-UK Accident Dataset:
+UK Accident [Dataset](https://www.kaggle.com/datasets/ismayilbayramov1/uk-road-accident-project?select=UK+data+accident.xlsx):
 307,974 rows across 23 columns, with each row representing a unique traffic accident reported between 2021 and 2022.
-Source: UK Road Accident Dataset on Kaggle [data](https://www.kaggle.com/datasets/ismayilbayramov1/uk-road-accident-project?select=UK+data+accident.xlsx)
-
+Source: UK Road Accident Dataset on Kaggle
 ## Key Columns:
 1. Accident_Index – Unique identifier for each accident.
 2. Date / Time – Timestamp of when the accident occurred.
